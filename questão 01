@@ -1,4 +1,4 @@
-LETRA (a)
+LETRA (A)
 
 |  A  |  B  |  C  |  AB | x = AB + C |
 |  0  |  0  |  0  |  0  |      0     |
@@ -10,7 +10,7 @@ LETRA (a)
 |  1  |  1  |  0  |  1  |      1     |
 |  1  |  1  |  1  |  1  |      1     |
 
-LETRA (b)
+LETRA (B)
 
 |  A  |  B  |  C  | A+B | B+C | x=(A+B)(B+C) |
 |  0  |  0  |  0  |  0  |  0  |       0      |
@@ -22,7 +22,7 @@ LETRA (b)
 |  1  |  1  |  0  |  1  |  1  |       1      |
 |  1  |  1  |  1  |  1  |  1  |       1      |
 
-LETRA(c)
+LETRA(C)
 
 |  A  |  B  |  C  |  D  |  AB | C+D | x = AB(C+D) |
 |  0  |  0  |  0  |  0  |  0  |  0  |      0      |
@@ -42,7 +42,7 @@ LETRA(c)
 |  1  |  1  |  1  |  0  |  1  |  1  |      1      |
 |  1  |  1  |  1  |  1  |  1  |  1  |      1      |
 
-LETRA(d)
+LETRA(D)
 
 |  A  |  B  |  C  | A⊕B | x = A⊕B⊕C |
 |  0  |  0  |  0  |  0  |     0     |
@@ -54,7 +54,7 @@ LETRA(d)
 |  1  |  1  |  0  |  0  |     0     |
 |  1  |  1  |  1  |  0  |     1     |
 
-LETRA (e)
+LETRA (E)
 
 |  A  |  B  |  C  |  AB |  BC |  AC | y = AB + BC + AC |
 |  0  |  0  |  0  |  0  |  0  |  0  |         0        |
